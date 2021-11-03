@@ -6,6 +6,7 @@
 - [https://datacarpentry.org/python-ecology-lesson/index.html](https://datacarpentry.org/python-ecology-lesson/index.html)
 - [https://tutswiki.com/pandas-cookbook/chapter1/](https://tutswiki.com/pandas-cookbook/chapter1/)
 - [https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)
+- [https://programminghistorian.org/en/lessons/](https://programminghistorian.org/en/lessons/)
 
 **git:**  
 [https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)  
