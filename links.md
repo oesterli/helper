@@ -9,7 +9,8 @@
 - [https://programminghistorian.org/en/lessons/](https://programminghistorian.org/en/lessons/)
 
 **git:**  
-[https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)  
+[https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) 
+[https://rogerdudler.github.io/git-guide/index.de.html](https://rogerdudler.github.io/git-guide/index.de.html)
 
 
 **XML**  
