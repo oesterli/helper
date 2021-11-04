@@ -14,3 +14,7 @@
 
 **XML**  
 [https://towardsdatascience.com/processing-xml-in-python-elementtree-c8992941efd2](https://towardsdatascience.com/processing-xml-in-python-elementtree-c8992941efd2)
+
+
+**swissgeol**  
+[https://swissgeol.ch/](https://beta.swissgeol.ch/)
