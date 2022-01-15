@@ -6,6 +6,7 @@
 - [https://tutswiki.com/pandas-cookbook/chapter1/](https://tutswiki.com/pandas-cookbook/chapter1/)
 - [https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)
 - [https://programminghistorian.org/en/lessons/](https://programminghistorian.org/en/lessons/)
+- [https://book.pythontips.com/en/latest/index.html](https://book.pythontips.com/en/latest/index.html)
 
 **git:**  
 [https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)   
