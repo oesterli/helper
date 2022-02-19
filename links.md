@@ -21,6 +21,6 @@
 [https://swissgeol.ch/](https://beta.swissgeol.ch/)
 
 
-**3D Python Libraies**  
+**3D Python Libraies:**  
 [PDAL](https://paulojraposo.github.io/pages/PDAL_tutorial.html)  
 [3D libraies](https://analyticsindiamag.com/top-python-libraries-for-3d-machine-learning/)
